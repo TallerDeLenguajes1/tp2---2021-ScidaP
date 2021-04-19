@@ -1,0 +1,1 @@
+f) No, no puedo ver el archivo, porque ahora mismo estoy sobre la rama "master", en la cual no creé el archivo tp2_1_2.c. Ese archivo está en la rama opcion_2, por lo tanto si estoy parado sobre la rama master, no podré ver lo que hay en otras ramas, y solamente podré ver lo que existe en la rama actual.
